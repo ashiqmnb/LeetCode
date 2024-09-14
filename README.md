@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ashiqmnb/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ashiqmnb/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0048-rotate-image](https://github.com/ashiqmnb/LeetCode/tree/master/0048-rotate-image) |
 | [0136-single-number](https://github.com/ashiqmnb/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ashiqmnb/LeetCode/tree/master/0137-single-number-ii) |
 ## Bit Manipulation
@@ -25,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ashiqmnb/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/ashiqmnb/LeetCode/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/ashiqmnb/LeetCode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
