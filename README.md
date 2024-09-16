@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/ashiqmnb/LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/ashiqmnb/LeetCode/tree/master/0048-rotate-image) |
 ## Matrix
 |  |
