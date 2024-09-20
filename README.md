@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ashiqmnb/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ashiqmnb/LeetCode/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/ashiqmnb/LeetCode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/ashiqmnb/LeetCode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/ashiqmnb/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ashiqmnb/LeetCode/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/ashiqmnb/LeetCode/tree/master/0268-missing-number) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/ashiqmnb/LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/ashiqmnb/LeetCode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/ashiqmnb/LeetCode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/ashiqmnb/LeetCode/tree/master/0268-missing-number) |
 ## Matrix
 |  |
