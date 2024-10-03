@@ -15,16 +15,16 @@ var romanToInt = function(s) {
 
     let total = 0;
 
-    for (let i = 0; i < s.length; i++){
+    for(i=0; i<s.length; i++){
         let current = roman[s[i]];
         let next = roman[s[i+1]];
 
         if(current < next){
-            total -= current;
+            total -= current; 
         }
         else{
-            total += current;
+            total += current; 
         }
-    }   
-    return total 
+    }
+    return total
 };
