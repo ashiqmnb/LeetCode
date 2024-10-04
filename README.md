@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ashiqmnb/LeetCode/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/ashiqmnb/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/ashiqmnb/LeetCode/tree/master/0268-missing-number) |
+| [0648-replace-words](https://github.com/ashiqmnb/LeetCode/tree/master/0648-replace-words) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ashiqmnb/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Bit Manipulation
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ashiqmnb/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ashiqmnb/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ashiqmnb/LeetCode/tree/master/0268-missing-number) |
+| [0648-replace-words](https://github.com/ashiqmnb/LeetCode/tree/master/0648-replace-words) |
 ## Binary Search
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ashiqmnb/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/ashiqmnb/LeetCode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/ashiqmnb/LeetCode/tree/master/0179-largest-number) |
+| [0648-replace-words](https://github.com/ashiqmnb/LeetCode/tree/master/0648-replace-words) |
 ## String Matching
 |  |
 | ------- |
@@ -102,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/ashiqmnb/LeetCode/tree/master/0179-largest-number) |
+## Trie
+|  |
+| ------- |
+| [0648-replace-words](https://github.com/ashiqmnb/LeetCode/tree/master/0648-replace-words) |
 <!---LeetCode Topics End-->
