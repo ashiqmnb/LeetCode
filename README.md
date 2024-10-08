@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ashiqmnb/LeetCode/tree/master/0283-move-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ashiqmnb/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0648-replace-words](https://github.com/ashiqmnb/LeetCode/tree/master/0648-replace-words) |
+| [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/ashiqmnb/LeetCode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ashiqmnb/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Bit Manipulation
 |  |
