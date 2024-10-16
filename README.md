@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ashiqmnb/LeetCode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/ashiqmnb/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ashiqmnb/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/ashiqmnb/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/ashiqmnb/LeetCode/tree/master/0049-group-anagrams) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ashiqmnb/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0648-replace-words](https://github.com/ashiqmnb/LeetCode/tree/master/0648-replace-words) |
 ## Heap (Priority Queue)
 |  |
