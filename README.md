@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/ashiqmnb/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/ashiqmnb/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ashiqmnb/LeetCode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/ashiqmnb/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ashiqmnb/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashiqmnb/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0648-replace-words](https://github.com/ashiqmnb/LeetCode/tree/master/0648-replace-words) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ashiqmnb/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ashiqmnb/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ashiqmnb/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/ashiqmnb/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0648-replace-words](https://github.com/ashiqmnb/LeetCode/tree/master/0648-replace-words) |
 ## Binary Search
 |  |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ashiqmnb/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ashiqmnb/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/ashiqmnb/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/ashiqmnb/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ashiqmnb/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ashiqmnb/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ashiqmnb/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/ashiqmnb/LeetCode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/ashiqmnb/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ashiqmnb/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/ashiqmnb/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ashiqmnb/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashiqmnb/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1019-squares-of-a-sorted-array](https://github.com/ashiqmnb/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -115,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ashiqmnb/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/ashiqmnb/LeetCode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/ashiqmnb/LeetCode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/ashiqmnb/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/ashiqmnb/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ashiqmnb/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Dynamic Programming
