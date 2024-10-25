@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/ashiqmnb/LeetCode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/ashiqmnb/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/ashiqmnb/LeetCode/tree/master/0268-missing-number) |
+| [1610-xor-operation-in-an-array](https://github.com/ashiqmnb/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ashiqmnb/LeetCode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashiqmnb/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ashiqmnb/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1610-xor-operation-in-an-array](https://github.com/ashiqmnb/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [3321-type-of-triangle](https://github.com/ashiqmnb/LeetCode/tree/master/3321-type-of-triangle) |
 ## Matrix
 |  |
