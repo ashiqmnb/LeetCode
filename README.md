@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/ashiqmnb/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ashiqmnb/LeetCode/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/ashiqmnb/LeetCode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/ashiqmnb/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/ashiqmnb/LeetCode/tree/master/0268-missing-number) |
 | [1610-xor-operation-in-an-array](https://github.com/ashiqmnb/LeetCode/tree/master/1610-xor-operation-in-an-array) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/ashiqmnb/LeetCode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/ashiqmnb/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ashiqmnb/LeetCode/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/ashiqmnb/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ashiqmnb/LeetCode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashiqmnb/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ashiqmnb/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -168,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/ashiqmnb/LeetCode/tree/master/0043-multiply-strings) |
 | [2639-separate-the-digits-in-an-array](https://github.com/ashiqmnb/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/ashiqmnb/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
