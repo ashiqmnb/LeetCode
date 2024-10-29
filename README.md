@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ashiqmnb/LeetCode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/ashiqmnb/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ashiqmnb/LeetCode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/ashiqmnb/LeetCode/tree/master/0326-power-of-three) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashiqmnb/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ashiqmnb/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1610-xor-operation-in-an-array](https://github.com/ashiqmnb/LeetCode/tree/master/1610-xor-operation-in-an-array) |
@@ -174,4 +175,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ashiqmnb/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/ashiqmnb/LeetCode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
