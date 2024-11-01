@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/ashiqmnb/LeetCode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ashiqmnb/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ashiqmnb/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1848-sum-of-unique-elements](https://github.com/ashiqmnb/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [2639-separate-the-digits-in-an-array](https://github.com/ashiqmnb/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
 | [3321-type-of-triangle](https://github.com/ashiqmnb/LeetCode/tree/master/3321-type-of-triangle) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ashiqmnb/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ashiqmnb/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ashiqmnb/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0648-replace-words](https://github.com/ashiqmnb/LeetCode/tree/master/0648-replace-words) |
+| [1848-sum-of-unique-elements](https://github.com/ashiqmnb/LeetCode/tree/master/1848-sum-of-unique-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ashiqmnb/LeetCode/tree/master/0169-majority-element) |
+| [1848-sum-of-unique-elements](https://github.com/ashiqmnb/LeetCode/tree/master/1848-sum-of-unique-elements) |
 ## Greedy
 |  |
 | ------- |
