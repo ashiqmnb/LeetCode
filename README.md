@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/ashiqmnb/LeetCode/tree/master/0620-not-boring-movies) |
 | [0626-exchange-seats](https://github.com/ashiqmnb/LeetCode/tree/master/0626-exchange-seats) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/ashiqmnb/LeetCode/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1179-game-play-analysis-i](https://github.com/ashiqmnb/LeetCode/tree/master/1179-game-play-analysis-i) |
 | [1258-article-views-i](https://github.com/ashiqmnb/LeetCode/tree/master/1258-article-views-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/ashiqmnb/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1541-top-travellers](https://github.com/ashiqmnb/LeetCode/tree/master/1541-top-travellers) |
