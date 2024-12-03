@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ashiqmnb/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1019-squares-of-a-sorted-array](https://github.com/ashiqmnb/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/ashiqmnb/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
+| [1137-height-checker](https://github.com/ashiqmnb/LeetCode/tree/master/1137-height-checker) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/ashiqmnb/LeetCode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ashiqmnb/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ashiqmnb/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ashiqmnb/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashiqmnb/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1019-squares-of-a-sorted-array](https://github.com/ashiqmnb/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1137-height-checker](https://github.com/ashiqmnb/LeetCode/tree/master/1137-height-checker) |
 | [3321-type-of-triangle](https://github.com/ashiqmnb/LeetCode/tree/master/3321-type-of-triangle) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ashiqmnb/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Two Pointers
@@ -224,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2507-number-of-common-factors](https://github.com/ashiqmnb/LeetCode/tree/master/2507-number-of-common-factors) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/ashiqmnb/LeetCode/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
