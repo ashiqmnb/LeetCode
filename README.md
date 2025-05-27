@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/ashiqmnb/LeetCode/tree/master/0837-most-common-word) |
 | [1019-squares-of-a-sorted-array](https://github.com/ashiqmnb/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/ashiqmnb/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
+| [1044-find-common-characters](https://github.com/ashiqmnb/LeetCode/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/ashiqmnb/LeetCode/tree/master/1137-height-checker) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/ashiqmnb/LeetCode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ashiqmnb/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ashiqmnb/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0648-replace-words](https://github.com/ashiqmnb/LeetCode/tree/master/0648-replace-words) |
 | [0837-most-common-word](https://github.com/ashiqmnb/LeetCode/tree/master/0837-most-common-word) |
+| [1044-find-common-characters](https://github.com/ashiqmnb/LeetCode/tree/master/1044-find-common-characters) |
 | [1848-sum-of-unique-elements](https://github.com/ashiqmnb/LeetCode/tree/master/1848-sum-of-unique-elements) |
 ## Binary Search
 |  |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/ashiqmnb/LeetCode/tree/master/0648-replace-words) |
 | [0812-rotate-string](https://github.com/ashiqmnb/LeetCode/tree/master/0812-rotate-string) |
 | [0837-most-common-word](https://github.com/ashiqmnb/LeetCode/tree/master/0837-most-common-word) |
+| [1044-find-common-characters](https://github.com/ashiqmnb/LeetCode/tree/master/1044-find-common-characters) |
 | [3451-string-compression-iii](https://github.com/ashiqmnb/LeetCode/tree/master/3451-string-compression-iii) |
 ## String Matching
 |  |
