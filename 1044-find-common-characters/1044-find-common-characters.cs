@@ -1,6 +1,5 @@
 public class Solution {
     public IList<string> CommonChars(string[] words) {
-        // Initialize frequency array with max frequency (infinite) for all 26 lowercase characters
         int[] minFreq = new int[26];
         for (int i = 0; i < 26; i++) minFreq[i] = int.MaxValue;
 
@@ -10,7 +9,6 @@ public class Solution {
                 charCount[c - 'a']++;
             }
 
-            // Take the minimum frequency of each character across all words
             for (int i = 0; i < 26; i++) {
                 minFreq[i] = Math.Min(minFreq[i], charCount[i]);
             }
