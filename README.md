@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ashiqmnb/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ashiqmnb/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ashiqmnb/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/ashiqmnb/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ashiqmnb/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0648-replace-words](https://github.com/ashiqmnb/LeetCode/tree/master/0648-replace-words) |
 | [0837-most-common-word](https://github.com/ashiqmnb/LeetCode/tree/master/0837-most-common-word) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ashiqmnb/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/ashiqmnb/LeetCode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/ashiqmnb/LeetCode/tree/master/0179-largest-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/ashiqmnb/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0648-replace-words](https://github.com/ashiqmnb/LeetCode/tree/master/0648-replace-words) |
 | [0812-rotate-string](https://github.com/ashiqmnb/LeetCode/tree/master/0812-rotate-string) |
 | [0837-most-common-word](https://github.com/ashiqmnb/LeetCode/tree/master/0837-most-common-word) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/ashiqmnb/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ashiqmnb/LeetCode/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/ashiqmnb/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0837-most-common-word](https://github.com/ashiqmnb/LeetCode/tree/master/0837-most-common-word) |
 | [1848-sum-of-unique-elements](https://github.com/ashiqmnb/LeetCode/tree/master/1848-sum-of-unique-elements) |
 ## Greedy
@@ -283,4 +286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/ashiqmnb/LeetCode/tree/master/0046-permutations) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ashiqmnb/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
