@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ashiqmnb/LeetCode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/ashiqmnb/LeetCode/tree/master/0179-largest-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/ashiqmnb/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0434-number-of-segments-in-a-string](https://github.com/ashiqmnb/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0648-replace-words](https://github.com/ashiqmnb/LeetCode/tree/master/0648-replace-words) |
 | [0812-rotate-string](https://github.com/ashiqmnb/LeetCode/tree/master/0812-rotate-string) |
 | [0837-most-common-word](https://github.com/ashiqmnb/LeetCode/tree/master/0837-most-common-word) |
