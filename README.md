@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ashiqmnb/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ashiqmnb/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ashiqmnb/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0500-keyboard-row](https://github.com/ashiqmnb/LeetCode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/ashiqmnb/LeetCode/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ashiqmnb/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0648-replace-words](https://github.com/ashiqmnb/LeetCode/tree/master/0648-replace-words) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ashiqmnb/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/ashiqmnb/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ashiqmnb/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0500-keyboard-row](https://github.com/ashiqmnb/LeetCode/tree/master/0500-keyboard-row) |
 | [0648-replace-words](https://github.com/ashiqmnb/LeetCode/tree/master/0648-replace-words) |
 | [0837-most-common-word](https://github.com/ashiqmnb/LeetCode/tree/master/0837-most-common-word) |
 | [1044-find-common-characters](https://github.com/ashiqmnb/LeetCode/tree/master/1044-find-common-characters) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/ashiqmnb/LeetCode/tree/master/0179-largest-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/ashiqmnb/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/ashiqmnb/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
+| [0500-keyboard-row](https://github.com/ashiqmnb/LeetCode/tree/master/0500-keyboard-row) |
 | [0648-replace-words](https://github.com/ashiqmnb/LeetCode/tree/master/0648-replace-words) |
 | [0812-rotate-string](https://github.com/ashiqmnb/LeetCode/tree/master/0812-rotate-string) |
 | [0837-most-common-word](https://github.com/ashiqmnb/LeetCode/tree/master/0837-most-common-word) |
