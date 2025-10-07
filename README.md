@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ashiqmnb/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ashiqmnb/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1848-sum-of-unique-elements](https://github.com/ashiqmnb/LeetCode/tree/master/1848-sum-of-unique-elements) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/ashiqmnb/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2639-separate-the-digits-in-an-array](https://github.com/ashiqmnb/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
 | [3321-type-of-triangle](https://github.com/ashiqmnb/LeetCode/tree/master/3321-type-of-triangle) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ashiqmnb/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/ashiqmnb/LeetCode/tree/master/1044-find-common-characters) |
 | [1319-unique-number-of-occurrences](https://github.com/ashiqmnb/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1848-sum-of-unique-elements](https://github.com/ashiqmnb/LeetCode/tree/master/1848-sum-of-unique-elements) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/ashiqmnb/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 ## Binary Search
 |  |
 | ------- |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/ashiqmnb/LeetCode/tree/master/1044-find-common-characters) |
 | [1894-merge-strings-alternately](https://github.com/ashiqmnb/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/ashiqmnb/LeetCode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/ashiqmnb/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [3451-string-compression-iii](https://github.com/ashiqmnb/LeetCode/tree/master/3451-string-compression-iii) |
 ## String Matching
 |  |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/ashiqmnb/LeetCode/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ashiqmnb/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1848-sum-of-unique-elements](https://github.com/ashiqmnb/LeetCode/tree/master/1848-sum-of-unique-elements) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/ashiqmnb/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 ## Greedy
 |  |
 | ------- |
