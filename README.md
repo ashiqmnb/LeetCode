@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/ashiqmnb/LeetCode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/ashiqmnb/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2235-capitalize-the-title](https://github.com/ashiqmnb/LeetCode/tree/master/2235-capitalize-the-title) |
+| [3379-score-of-a-string](https://github.com/ashiqmnb/LeetCode/tree/master/3379-score-of-a-string) |
 | [3451-string-compression-iii](https://github.com/ashiqmnb/LeetCode/tree/master/3451-string-compression-iii) |
 ## String Matching
 |  |
